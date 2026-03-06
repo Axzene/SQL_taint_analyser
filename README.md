@@ -1,6 +1,7 @@
 # SQL_taint_analyser
 Static SQL Injection Detection Using Compiler-Based Taint Analysis
-# Static SQL Injection Detection using Compiler Techniques
+
+Static SQL Injection Detection using Compiler Techniques
 
 ## Overview
 This project implements a static analysis tool for detecting SQL Injection vulnerabilities using compiler design techniques. The system analyzes source code without executing it and identifies unsafe SQL query constructions where untrusted user input flows into SQL queries without proper sanitization.
